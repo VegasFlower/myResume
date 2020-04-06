@@ -1,0 +1,32 @@
+.card-home{
+    margin-top: 120px;
+    width: 800px;
+    height: 550px;
+}
+
+.brief{
+    background-color:burlywood;
+    height: 350px;
+}
+
+.name{
+    text-align: center;
+    padding-top: 130px;
+}
+
+.avatar{
+    padding: 60px 10px 60px 10px;
+    width:200px
+}
+
+.about{
+    padding: 40px 0px 40px 50px;
+}
+
+.contact{
+    padding: 50px 30px 50px 30px;
+}
+
+.info{
+    list-style: none;
+}
